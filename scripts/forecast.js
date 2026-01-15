@@ -1,4 +1,4 @@
-const key = "zpka_fe5943feb5ef488cbc09bee5273f40a2_d08785";
+const key = "zpka_fe5943feb5ef488cbc09bee5273f40a2_d08785be";
 
 //get weather information
 const getWeather = async (id) => {
